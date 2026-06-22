@@ -40,5 +40,5 @@ En cours — Semaine 1 : génération du dataset terminée
 
 ## Auteur
 Yeno Ziza Harnelle Layis
-Ingénieure Métallurgiste | Superviseure Laboratoire | IA & Data Science
+Chimiste spécialisée en matériaux inorganiques| Ingénieure Métallurgiste | Superviseure Laboratoire | IA & Data Science
 Franceville, Gabon
